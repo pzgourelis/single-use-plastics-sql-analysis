@@ -6,41 +6,25 @@ The project follows a complete data workflow:
 
 **Questionnaire design → Excel coding and validation → Relational database implementation → SQL analysis → Interpretation and multilingual web presentation**
 
-> \*\*Live multilingual website:\*\* https://single-use-plastics-sql-analysis.lovable.app
+> **Live multilingual website:** [Open the live project](https://single-use-plastics-sql-analysis.lovable.app)
 
-\## Website preview
+## Website Preview
 
+### Homepage
 
+![Project homepage](screenshots/website-homepage.png.png)
 
-\### Homepage
+### SQL Analysis
 
+![SQL analysis section](screenshots/sql-analysis.png.png)
 
+### Results and Insights
 
-!\[Project homepage](screenshots/website-homepage.png)
+![Results and insights section](screenshots/results-insights.png.png)
 
+### Greek Version
 
-
-\### SQL analysis
-
-
-
-!\[SQL analysis section](screenshots/sql-analysis.png)
-
-
-
-\### Results and insights
-
-
-
-!\[Results and insights section](screenshots/results-insights.png)
-
-
-
-\### Greek version
-
-
-
-!\[Greek multilingual version](screenshots/greek-version.png) 
+![Greek multilingual version](screenshots/greek-version.png.png)
 
 ## Project overview
 
